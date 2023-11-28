@@ -8,6 +8,15 @@
 
 - 💻 Currently focusing on: Angular, TypeScript, HTML, CSS
 - 🛠️ Tools: VS Code, Git
+- 💻 Languages: HTML5, CSS3, JavaScript, TypeScript, C#
+- 🧰 Frontend: Bootstrap-5, AngularJS
+- 🌐 Backend: Asp.Net, Entity Framework
+- 🚀 Other: Rest API's
+
+## Let's Connect!
+
+- 🔗 [LinkedIn](linkedin.com/in/snehal-kumbhar-860a1b230)
+- 📧 Feel free to reach out to me via email at: (snehalkumbhar1112@gmail.com)
 
 ## Learning Journey
 
