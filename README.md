@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snehalkumbhar1112
+- Hi, I’m @snehalkumbhar1112
 - 💼 Currently working at Munimji’s IT Solutions Pvt.Ltd. as a Full Stack Developer.
 - 👀 I'm passionate about exploring the intersection of web development.
 - 🌱 Currently diving deep into Angular to build dynamic and interactive web applications.
